@@ -1,0 +1,24 @@
+{
+  "name": "agy-practice",
+  "version": "1.0.0",
+  "description": "A fully featured, retro arcade **Bomberman** game built with modern HTML5 Canvas, JavaScript, and the Web Audio API (zero external assets or dependencies!).",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/2605046-HYD/agy-practice.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/2605046-HYD/agy-practice/issues"
+  },
+  "homepage": "https://github.com/2605046-HYD/agy-practice#readme",
+  "dependencies": {
+    "ws": "^8.21.3"
+  }
+}
